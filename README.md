@@ -1,6 +1,8 @@
 # An Analysis of Kickstarter Campaigns
 ## Overview of Project
-Organizing, sorting, an analyzing excel data for a crowdfunding campaign. 
+Organizing, sorting, an analyzing excel data for a crowdfunding campaign. Deliverable 1: Outcome based on Launch Date Chart, Deliverable 2: Outcomes based on goals chart, Deliverable 3: Written analysis of results (README)
+## Skill Development
+Import data into tables for analysis; apply filters, conditional formatting, and formulas; generate and interpret pivot tables; calculate summary statistics - central tendency, standard deviation, and variance; characterize data to identify outliers in data sets; perform an excel analysis with visualizations; interpret common Excel visualizations
 ### Purpose
 An up-and-coming playwright wants to design a crowdfunding campaign to fund her play “Fever” which she estimates will cost $12,000. The playwright has provided a dataset for which the goal was to determine whether there are specific factors that make a campaign successful. The data was organized and sorted in excel to prepare for analysis. The goal of the analysis was to understand the campaigns from start to finish, determine what factors that make a project's campaign successful, and how to develop a campaign to mirror those that were successful. After this initial analysis another was done to identify how different campaigns fared in relation to their launch dates and funding goals. 
 ## Analysis and Challenges
